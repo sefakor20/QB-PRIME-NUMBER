@@ -1,0 +1,1 @@
+A program in QBASIC to determine whether a number is prime or not.
